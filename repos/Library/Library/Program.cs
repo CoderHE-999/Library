@@ -177,20 +177,6 @@ namespace Library
 
             
 
-            //foreach (var item in array)
-            //{
-            //    if (item.No == inputInt)
-            //    booksNo = item.No;
-            //}
-
-            //while (inputInt == booksNo && inputInt < minvalue)
-            //{
-            //    Console.WriteLine("Yeniden cehd edin: ");
-            //    inputStr = Console.ReadLine();
-            //    inputInt = Convert.ToInt32(inputStr);
-            //}
-
-            //return inputInt;
         }
 
         static double getInputDbl(string input , int minValue)
