@@ -1,0 +1,14 @@
+C:\Users\husey\source\repos\15-11-2021-Practice\15-11-2021-Practice\bin\Debug\netcoreapp3.1\15-11-2021-Practice.exe
+C:\Users\husey\source\repos\15-11-2021-Practice\15-11-2021-Practice\bin\Debug\netcoreapp3.1\15-11-2021-Practice.deps.json
+C:\Users\husey\source\repos\15-11-2021-Practice\15-11-2021-Practice\bin\Debug\netcoreapp3.1\15-11-2021-Practice.runtimeconfig.json
+C:\Users\husey\source\repos\15-11-2021-Practice\15-11-2021-Practice\bin\Debug\netcoreapp3.1\15-11-2021-Practice.runtimeconfig.dev.json
+C:\Users\husey\source\repos\15-11-2021-Practice\15-11-2021-Practice\bin\Debug\netcoreapp3.1\15-11-2021-Practice.dll
+C:\Users\husey\source\repos\15-11-2021-Practice\15-11-2021-Practice\bin\Debug\netcoreapp3.1\15-11-2021-Practice.pdb
+C:\Users\husey\source\repos\15-11-2021-Practice\15-11-2021-Practice\obj\Debug\netcoreapp3.1\15-11-2021-Practice.csproj.AssemblyReference.cache
+C:\Users\husey\source\repos\15-11-2021-Practice\15-11-2021-Practice\obj\Debug\netcoreapp3.1\15-11-2021-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\source\repos\15-11-2021-Practice\15-11-2021-Practice\obj\Debug\netcoreapp3.1\15-11-2021-Practice.AssemblyInfoInputs.cache
+C:\Users\husey\source\repos\15-11-2021-Practice\15-11-2021-Practice\obj\Debug\netcoreapp3.1\15-11-2021-Practice.AssemblyInfo.cs
+C:\Users\husey\source\repos\15-11-2021-Practice\15-11-2021-Practice\obj\Debug\netcoreapp3.1\15-11-2021-Practice.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\15-11-2021-Practice\15-11-2021-Practice\obj\Debug\netcoreapp3.1\15-11-2021-Practice.dll
+C:\Users\husey\source\repos\15-11-2021-Practice\15-11-2021-Practice\obj\Debug\netcoreapp3.1\15-11-2021-Practice.pdb
+C:\Users\husey\source\repos\15-11-2021-Practice\15-11-2021-Practice\obj\Debug\netcoreapp3.1\15-11-2021-Practice.genruntimeconfig.cache
